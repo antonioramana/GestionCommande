@@ -1,0 +1,32 @@
+h3{
+    color:grey;
+  }
+  .input-btn{
+    width:100%;
+    color:white;
+    background-color:grey;
+    padding:5px;
+    border-radius:10px;
+  }
+  .input-btn:hover{
+    
+  
+  }
+  .col-sm-6{
+    margin-top:30px;
+  }
+  label{
+    text-align:left;
+  }
+  .thead-light{
+    background-color: grey;
+    color:white;
+  }
+  .navbar{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+  }
+  .navbar .active{
+    text-decoration: underline;
+  }
